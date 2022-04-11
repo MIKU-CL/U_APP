@@ -1,0 +1,1 @@
+export default tel => tel.slice(0, 3) + "****" + tel.slice(7)
